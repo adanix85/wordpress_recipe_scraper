@@ -20,5 +20,7 @@ Express will begin listening on PORT 8000.
 Dependencies:
 
 axios: https://www.npmjs.com/package/axios
+
 cheerio: https://www.npmjs.com/package/cheerio
+
 express: https://www.npmjs.com/package/express
