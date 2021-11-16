@@ -1,4 +1,4 @@
-Simple web scraper to avoid for WordPress recipe sites to avoid the hassle of scrolling through blog posts to find the recipe. Returns ingredients and instruction responses as an array of objects.
+Simple web scraper for WordPress recipe sites to avoid scrolling through blog posts to find the recipe. Returns ingredients and instruction responses as an array of objects.
 
 Requirements:
 node.js version >= 12.17.0
